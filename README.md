@@ -1,1 +1,2 @@
-This repo is created for ease of life
+utilities to enhance ease of life 
+
